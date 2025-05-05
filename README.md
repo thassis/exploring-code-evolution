@@ -80,8 +80,10 @@ Por fim, responda as questões abaixo no seu `fork`:
 
 2. Gráfico selecionado: classes, interfaces, and type aliases
   
-3. Explicação: O gráfico mostra que o uso de type aliases (type) cresceu muito ao longo do tempo, o que indica uma mudança interessante no estilo de desenvolvimento do projeto. Em vez de seguir uma abordagem mais tradicional e orientada a objetos, comum em outras linguagens como Java que faz uso intenso de class e interface, esse projeto em TypeScript está caminhando para um modelo mais funcional e declarativo.
-
-Além disso, este projeto (Expo) está dentro do ecossistema do React Native. Desde 2019, o React recomenda oficialmente o uso de Hooks no lugar de class components. Por isso, é natural que classes e interfaces não sejam tão frequentes em projetos que seguem essas diretrizes. Nesse contexto, type aliases (do TypeScript) fazem mais sentido, pois se integram melhor a uma estrutura baseada em funções, demonstrando que o projeto está alinhado com as práticas modernas do React, priorizando a abordagem funcional em vez da orientação a objetos tradicional.
-
-Isso não significa que OOP seja ruim, mas no caso específico do React (e especialmente com TypeScript), ela pode ser menos vantajosa do que em outras linguagens ou frameworks mais orientados a objetos por padrão.
+3. Explicação:
+   
+  O gráfico mostra que o uso de type aliases (type) cresceu muito ao longo do tempo, o que indica uma mudança interessante no estilo de desenvolvimento do projeto. Em vez de seguir uma abordagem mais tradicional e orientada a objetos, comum em outras linguagens como Java que faz uso intenso de class e interface, esse projeto em TypeScript está caminhando para um modelo mais funcional e declarativo.
+  
+  Além disso, este projeto (Expo) está dentro do ecossistema do React Native. Desde 2019, o React recomenda oficialmente o uso de Hooks no lugar de class components. Por isso, é natural que classes e interfaces não sejam tão frequentes em projetos que seguem essas diretrizes. Nesse contexto, type aliases (do TypeScript) fazem mais sentido, pois se integram melhor a uma estrutura baseada em funções, demonstrando que o projeto está alinhado com as práticas modernas do React, priorizando a abordagem funcional em vez da orientação a objetos tradicional.
+  
+  Isso não significa que OOP seja ruim, mas no caso específico do React (e especialmente com TypeScript), ela pode ser menos vantajosa do que em outras linguagens ou frameworks mais orientados a objetos por padrão.
